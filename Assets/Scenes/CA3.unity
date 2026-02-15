@@ -1698,7 +1698,7 @@ MonoBehaviour:
   feedbackText: {fileID: 1145167847}
   expectedUsername: qwq
   expectedPassword: 6688
-  sceneToLoad: SampleScene
+  sceneToLoad: MovementTutorial
 --- !u!4 &1065713530
 Transform:
   m_ObjectHideFlags: 0
