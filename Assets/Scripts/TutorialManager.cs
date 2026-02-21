@@ -8,6 +8,7 @@ public class TutorialManager : MonoBehaviour
     public GameObject teleportArea1;
     public GameObject teleportArea2;
     public GameObject congratsCanvas;
+    public GameObject ca5; 
 
     public void ActivateZone2() => zone2.SetActive(true);
     public void ActivateZone3() => zone3.SetActive(true);
@@ -25,5 +26,6 @@ public class TutorialManager : MonoBehaviour
     public void ShowCongrats()
     {
         congratsCanvas.SetActive(true);
+        ca5.SetActive(true);
     }
 }
